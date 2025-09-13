@@ -1,2 +1,2 @@
 # Encrytion-Decryption
-Encryption and decryption program
+# DO NOT USE THIS FOR REAL DATA SECURITY, PLEASE DO NOT, IT IS BAD CODE AND CAN BE CRACKED.
